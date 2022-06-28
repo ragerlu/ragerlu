@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello!
+
+I'm [Lucas](https://www.linkedin.com/in/lucasrager).
 
 - 💬 Ask me about [R](https://www.r-project.org/) and [python](https://www.python.org/)!
 - 📫 How to reach me: `ragerlu@udel.edu.com`
