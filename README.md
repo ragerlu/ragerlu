@@ -26,7 +26,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ragerlu&show_icons=true&theme=gotham" alt="ragerlu" />
 
-![Snake animation](https://github.com/ragerlu/ragerlu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ragerlu/ragerlu/blob/main/github-contribution-grid-snake.svg)
 
 
 
