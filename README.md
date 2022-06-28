@@ -14,7 +14,7 @@ I'm [Lucas](https://www.linkedin.com/in/lucasrager).
 **languages and tools:**  
 
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://www.javascript.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://www.r-project.org/)
+[<code><img height="20" src="https://user-images.githubusercontent.com/60983998/176315217-51742eb7-473b-4a91-8a97-d4453b8f10b0.png"></code>](https://www.r-project.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>](https://nodejs.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>](https://www.mysql.com/)
@@ -30,9 +30,6 @@ I'm [Lucas](https://www.linkedin.com/in/lucasrager).
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ragerlu&show_icons=true&theme=gotham" alt="ragerlu" />
 
 ![Snake animation](https://github.com/ragerlu/ragerlu/blob/main/github-contribution-grid-snake.svg)
-
-
-
 
 
 
