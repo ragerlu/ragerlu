@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**ragerlu/ragerlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm <b>Lucas Rager</b>,
 
-Here are some ideas to get you started:
+I'm currently working on api creation and webdevelopment utilizing the py-script library. Though, 
+I am always working on small side projects to change things occassionally. And I am always open
+to collaboration! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio Site: https://github.com/ragerlu/ragerlu.github.io.git
+
+How to reach me: lrager002@my.wilmu.edu
+
+Pronouns: He/Him
